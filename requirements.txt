@@ -1,7 +1,9 @@
 app.py
 car_price_model.pkl
 training_columns.pkl
-numpy 
-pandas
-Scikit learn
+Python
+Pandas
+NumPy
+Scikit-learn
 Streamlit
+Joblib
